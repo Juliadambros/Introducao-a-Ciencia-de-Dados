@@ -1,0 +1,2 @@
+Pesquisa: titanic | Resultado: Titanic
+Pesquisa: the hunger games | Resultado: The Hunger Games

@@ -1,0 +1,18 @@
+{
+  "api": {
+    "provider": "omdb",
+    "base_url": "http://www.omdbapi.com/"
+  },
+  "data_config": {
+    "fields_to_extract": [
+      "Title",
+      "Plot",
+      "Poster"
+    ]
+  },
+  "output_config": {
+    "text_dir": "resultados/textos",
+    "image_dir": "resultados/imagens",
+    "history_file": "resultados/historico_pesquisas.txt"
+  }
+}

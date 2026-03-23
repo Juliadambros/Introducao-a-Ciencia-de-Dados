@@ -1,0 +1,23 @@
+# Este é um cabeçalho de comentário
+# Data da geração: 2024-01-01
+id_evento,tipo,timestamp,descricao
+1,login,2024-01-01 08:00:00,Usuário admin logou
+2,erro,2024-01-01 08:05:10,Falha ao carregar módulo X
+3,login,2024-01-01 08:10:00,Usuário convidado logou
+4,sucesso,2024-01-01 08:15:30,Operação concluída
+5,login,2024-01-01 08:20:00,Usuário maria logou
+6,erro,2024-01-01 08:22:15,Erro de autenticação
+7,sucesso,2024-01-01 08:25:40,Backup iniciado com sucesso
+8,login,2024-01-01 08:30:05,Usuário joao logou
+9,erro,2024-01-01 08:32:10,Falha ao conectar ao banco de dados
+10,sucesso,2024-01-01 08:35:00,Backup concluído
+11,login,2024-01-01 08:40:00,Usuário carla logou
+12,erro,2024-01-01 08:42:22,Módulo de pagamento indisponível
+13,sucesso,2024-01-01 08:45:10,Relatório gerado com sucesso
+14,login,2024-01-01 08:50:00,Usuário admin logou novamente
+15,erro,2024-01-01 08:55:30,Falha ao carregar configurações
+16,sucesso,2024-01-01 09:00:00,Atualização realizada
+17,login,2024-01-01 09:05:00,Usuário visitante logou
+18,erro,2024-01-01 09:07:45,Tempo de conexão excedido
+19,sucesso,2024-01-01 09:10:20,Sincronização concluída
+20,login,2024-01-01 09:15:00,Usuário suporte logou
