@@ -1,0 +1,26 @@
+{
+  "input_config": {
+    "csv_path": "vendas-anuais-de-gasolina-c-por-municipio.csv",
+    "separator": ";",
+    "encoding": "utf-8"
+  },
+  "filter_config": {
+    "last_n_years": 10
+  },
+  "columns_config": {
+    "year_column": "ANO",
+    "sales_column": "VENDAS",
+    "region_column": "GRANDE REGIÃO"
+  },
+  "graphs_config": {
+    "line_chart": true,
+    "pie_chart": true
+  },
+  "output_config": {
+    "graph_path": "grafico_vendas.png",
+    "region_graph_path": "grafico_regiao.png",
+    "database_path": "gasolina.db",
+    "table_name": "vendas",
+    "stats_path": "estatisticas.json"
+  }
+}
