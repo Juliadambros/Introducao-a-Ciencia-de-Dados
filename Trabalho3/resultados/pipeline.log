@@ -1,0 +1,15 @@
+2026-04-09 16:59:15,329 - INFO - Iniciando pipeline
+2026-04-09 16:59:15,432 - INFO - Dados carregados com sucesso.
+2026-04-09 16:59:15,432 - INFO - Filtragem dos últimos 10 anos concluída.
+2026-04-09 16:59:15,475 - INFO - package: mysql.connector.plugins
+2026-04-09 16:59:15,475 - INFO - plugin_name: caching_sha2_password
+2026-04-09 16:59:15,475 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-09 16:59:15,481 - INFO - Banco de dados e tabela criados/verificados com sucesso.
+2026-04-09 16:59:15,717 - ERROR - Erro ao salvar no MySQL: 1062 (23000): Duplicate entry '2015-SANTANA' for key 'vendas.PRIMARY'
+2026-04-09 16:59:16,185 - INFO - Consulta ao banco executada com sucesso.
+2026-04-09 16:59:16,185 - INFO - Estatísticas calculadas e salvas com sucesso.
+2026-04-09 16:59:16,290 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 16:59:16,290 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 16:59:16,358 - INFO - Gráfico de barras gerado com sucesso.
+2026-04-09 16:59:16,488 - INFO - Gráfico de área empilhada gerado com sucesso.
+2026-04-09 16:59:16,488 - INFO - Pipeline executado com sucesso.

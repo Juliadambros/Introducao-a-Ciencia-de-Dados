@@ -1,0 +1,11 @@
+ESTATÍSTICAS DAS VENDAS
+
+count    5.206700e+04
+mean     7.635215e+06
+std      4.598530e+07
+min      0.000000e+00
+25%      6.785000e+05
+50%      1.608000e+06
+75%      4.337845e+06
+max      2.895690e+09
+Name: vendas, dtype: float64
